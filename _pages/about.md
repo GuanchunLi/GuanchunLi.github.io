@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-+This is Guanchun Li's home on the web!
+This is Guanchun Li's home on the web!
 
-+Loren ipsum
+Research interest
+* Mathematical representation of neuronal systems
+* Mechanisms of learning and memory
+* Neuromorphic computing and brain-inspired artificial intelligence
