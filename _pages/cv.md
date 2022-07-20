@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Math, Peking University, 2018
 * Ph.D in Applied Math, New York University, 2023 (expected)
+   * Thesis: A biochemical cellular-molecular description of early long-term potentiation learning
+   * Under the supervision of Professor David W. McLaughlin and Professor Charles S. Peskin (co-advisor)
+
+* B.S. in Applied Math, Peking University, 2018
 
 <!-- Work experience
 ======
