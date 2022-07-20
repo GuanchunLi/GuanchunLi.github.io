@@ -2,7 +2,7 @@
 title: "Numerical Analysis"
 collection: teaching
 type: "Undergraduate course"
-<!-- permalink: /teaching/2014-spring-teaching-1 -->
+permalink: /teaching/2021-fall-teaching-1
 venue: "New York University, Math department"
 date: Sept. 2021 – Dec. 2021
 location: "New York, US"
