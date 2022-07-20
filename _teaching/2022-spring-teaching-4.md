@@ -1,10 +1,10 @@
 ---
-title: "Numerical Analysis"
+title: "Intro to Computer Simulation"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-fall-teaching-1
+permalink: /teaching/2022-spring-teaching-4
 venue: "New York University, Math department"
-date: Sept. 2021 – Dec. 2021
+date: 2021-03-05
 location: "New York, US"
 ---
 

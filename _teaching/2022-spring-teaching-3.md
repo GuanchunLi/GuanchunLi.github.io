@@ -2,9 +2,9 @@
 title: "Chaos and Dynamical Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-3
 venue: "New York University, Math department"
-date: Jan. 2022 – May 2022
+date: 2021-03-05
 location: "New York, US"
 ---
 

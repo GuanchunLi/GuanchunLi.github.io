@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "New York University, Math department"
-date: Jan. 2021 – May 2021
+date: 2021-03-05
 location: "New York, US"
 ---
 
